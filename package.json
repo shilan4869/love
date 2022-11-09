@@ -1,5 +1,5 @@
 {
-  "homepage": "https://shilan4869.github.io/yeu-dieu",
+  "homepage": "https://shilan4869.github.io/love",
   "scripts": {
     "deploy": "gh-pages -d build"
   },
