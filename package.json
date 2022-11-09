@@ -1,7 +1,6 @@
 {
   "homepage": "https://shilan4869.github.io/yeu-dieu",
   "scripts": {
-    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
